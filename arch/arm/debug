@@ -1,0 +1,4 @@
+rm punyforth
+gcc-4.8 -nostdlib -mcpu=cortex-a7  -I. ../../main.S -g -o punyforth
+chmod +x punyforth
+gdb ./punyforth

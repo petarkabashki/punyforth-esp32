@@ -1,0 +1,2 @@
+#!/bin/bash
+java -cp .:./bin:./jars/* com.craigl.esp8266punyforthloader.ESP8266PunyForthLoader

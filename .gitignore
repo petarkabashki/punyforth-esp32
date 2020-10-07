@@ -1,0 +1,7 @@
+wifisettings*
+*.pyc
+uber.forth
+.output/
+
+.vscode
+build
